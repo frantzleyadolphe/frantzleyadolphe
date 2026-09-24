@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/frantzleyadolphe">
+    <img src="https://raw.githubusercontent.com/frantzleyadolphe/frantzleyadolphe/main/frantzleyadolphe-profile-grid.svg" alt="Profile Grid" width="100%" />
+  </a>
+</div>
+
 <h1 align="center">Hi 👋🏾, I'm Frantzley Adolphe</h1>
 
 <h3 align="center">
